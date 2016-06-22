@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="14553486439918"
+    token="-4817075009193619018" >
+
+    <task
+        name="javac"
+        duration="281" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="64" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="F:\BAND\Microsoft Band SDK and Samples for Android\BandHeartRateApp\build\outputs\apk\BandHeartRateApp-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="14553486439918" >
+        <artifact
+            location="F:\BAND\Microsoft Band SDK and Samples for Android\BandHeartRateApp\build\outputs\apk\BandHeartRateApp-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
